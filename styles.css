@@ -21,8 +21,13 @@ body {
   justify-content: center;
   align-items: center;
   padding: 20px;
+  background-image: url(image/fillette-de-face.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
 }
 
+/*Mise en page du titre*/
 .title {
   color: white;
   font-family: Arial, Helvetica, sans-serif;
